@@ -1,0 +1,15 @@
+"""
+API keys for the AI Dubbing project.
+Copy this file to api_keys.py and fill in your actual API keys.
+The api_keys.py file is git-ignored and will not be committed to the repository.
+"""
+
+# OpenAI API Key for Whisper and GPT services
+OPENAI_API_KEY = "your_openai_api_key_here"
+
+# Google Cloud API Key (if used)
+GOOGLE_CLOUD_API_KEY = "your_google_cloud_api_key_here"
+
+# Other API keys as needed
+# DEEPL_API_KEY = "your_deepl_api_key_here"
+# AZURE_API_KEY = "your_azure_api_key_here" 
